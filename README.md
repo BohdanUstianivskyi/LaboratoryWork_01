@@ -20,3 +20,5 @@ git clone https://github.com/BohdanUstianivskyi/LaboratoryWork_01
 # Results
 
 Task1 (Operation with numbers): <br>
+![image1](https://github.com/BohdanUstianivskyi/LaboratoryWork_01/assets/132481363/84098259-265e-49ec-a988-d5f665fc7320)
+
