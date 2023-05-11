@@ -11,3 +11,9 @@ This project involves the following tasks:
 4.Creating a Car class with fields for horsepower, engine capacity,model, year, color,fuel type, and mileage and perform addition of fields horsepower,engine capacity for a group of 10 objects of class Car and output the result to the console.
 
 5.Making  a reversed three-digit number using modulo operator 
+# Requirements.
+To run this project, you must have the following installed on your computer: IntelliJ IDEA Community Edition.
+
+# Build Instructions
+Clone the repository to your local machine using <br>
+git clone
